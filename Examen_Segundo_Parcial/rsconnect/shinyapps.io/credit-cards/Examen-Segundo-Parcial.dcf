@@ -1,0 +1,12 @@
+name: Examen-Segundo-Parcial
+title: Examen-Segundo-Parcial
+username:
+account: credit-cards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3595355
+bundleId: 4190847
+url: https://credit-cards.shinyapps.io/Examen-Segundo-Parcial/
+when: 1612676723.89857
+asMultiple: FALSE
+asStatic: FALSE
